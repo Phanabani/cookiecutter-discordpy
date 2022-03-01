@@ -1,0 +1,16 @@
+{
+    "bot_token": "YOUR_BOT_TOKEN",
+    "bot": {
+        "command_prefix": "{{ cookiecutter.default_command_prefix }}",
+        "description": "{{ cookiecutter.project_short_description }}"
+    },
+    "logging": {
+        "happy_bot_logging_level": "INFO",
+        "discord_logging_level": "WARNING",
+        "output_file": "./logs/{{ cookiecutter.project_slug }}.log",
+        "when": "midnight",
+        "interval": 1,
+        "backup_count": 7,
+        "format": "%(asctime)s %(levelname)s %(name)s | %(message)s"
+    }
+}

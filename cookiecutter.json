@@ -1,0 +1,19 @@
+{
+  "_extensions": ["jinja2_time.TimeExtension"],
+
+  "full_name": "",
+  "email": "",
+  "github_username": "",
+
+  "python_version": "",
+
+  "project_name": "",
+  "project_slug": "{{ cookiecutter.project_name|slugify(separator='_') }}",
+  "project_slug_github": "{{ cookiecutter.project_name|slugify(separator='-') }}",
+  "project_short_description": "A Discord bot.",
+  "version": "0.1.0",
+  "year": "{% now 'local', '%Y' %}",
+
+  "discord_permissions": "Send messages, Send messages in threads",
+  "default_command_prefix": "!"
+}
