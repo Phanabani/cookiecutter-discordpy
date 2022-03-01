@@ -1,7 +1,7 @@
 # cookiecutter-discordpy
 
-[![release](https://img.shields.io/github/v/release/phanabani/happy-bot)](https://github.com/phanabani/happy-bot/releases)
-[![license](https://img.shields.io/github/license/phanabani/happy-bot)](LICENSE)
+[![release](https://img.shields.io/github/v/release/phanabani/cookiecutter-discordpy)](https://github.com/phanabani/cookiecutter-discordpy/releases)
+[![license](https://img.shields.io/github/license/phanabani/cookiecutter-discordpy)](LICENSE)
 
 A [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template for
 [Discord.py](https://github.com/Rapptz/discord.py) bots.
