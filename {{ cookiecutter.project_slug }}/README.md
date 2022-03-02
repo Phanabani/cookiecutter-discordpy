@@ -10,6 +10,7 @@
 - [Install](#install)
 - [Usage](#usage)
 - [Config](#config)
+- [Commands](#commands)
 - [Developers](#developers)
 - [License](#license)
 
@@ -91,6 +92,10 @@ field.
 
 See [Config](docs/config.md) for detailed information about setting up the
 config file.
+
+## Commands
+
+See [commands](docs/commands.md) for info about {{ cookiecutter.project_name }}'s commands.
 
 ## Developers
 
