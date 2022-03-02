@@ -95,7 +95,7 @@ config file.
 
 ## Commands
 
-See [commands](docs/commands.md) for info about {{ cookiecutter.project_name }}'s commands.
+See [Commands](docs/commands.md) for info about {{ cookiecutter.project_name }}'s commands.
 
 ## Developers
 
