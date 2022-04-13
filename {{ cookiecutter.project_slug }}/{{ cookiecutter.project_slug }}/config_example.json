@@ -5,7 +5,7 @@
         "description": "{{ cookiecutter.project_short_description }}"
     },
     "logging": {
-        "happy_bot_logging_level": "INFO",
+        "{{ cookiecutter.project_slug }}_logging_level": "INFO",
         "discord_logging_level": "WARNING",
         "output_file": "./logs/{{ cookiecutter.project_slug }}.log",
         "when": "midnight",
